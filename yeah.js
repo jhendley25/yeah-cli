@@ -4,7 +4,7 @@ var program = require("commander"),
     iosHelper = require('./lib/iosHelper');
 
 program
-  .version('1.0.1')
+  .version('1.0.2')
   .usage('emulate')
   .parse(process.argv);
 

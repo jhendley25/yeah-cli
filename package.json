@@ -1,6 +1,6 @@
 {
   "name": "yeah-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Open iOS device simulators from the command line",
   "main": "yeah.js",
   "scripts": {
