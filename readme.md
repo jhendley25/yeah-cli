@@ -8,6 +8,8 @@
 ##### Usage:
 `yeah emulate (optional <device-name>)`
 
+![image](https://s3.amazonaws.com/uploads.hipchat.com/54147/597930/d7nybjVL20T6Alp/Screen%20Shot%202015-01-19%20at%202.11.15%20PM.png)
+
 ##### Description:
 This tool allows you to open xcode's iOS simulators without having to open xcode. 'Nuff said.
 
