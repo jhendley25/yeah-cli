@@ -26,8 +26,8 @@
   "author": "jhendley25",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^0.5.1",
-    "commander": "^2.5.0",
+    "chalk": "~0.5.1",
+    "commander": "~2.5.0",
     "inquirer": "~0.8.0"
   }
 }
